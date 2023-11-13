@@ -1,0 +1,4 @@
+br\edu\umfg\exemplomigrations\exemplomigrations\repository\UserRepository.class
+br\edu\umfg\exemplomigrations\exemplomigrations\model\User.class
+br\edu\umfg\exemplomigrations\exemplomigrations\model\User$UserBuilder.class
+br\edu\umfg\exemplomigrations\exemplomigrations\controllers\UserController.class
